@@ -141,6 +141,7 @@ CLASS_MAPPER_BASE = {
     "quanta_mesh": QuantaMeshSSH,
     "rad_etx": RadETXSSH,
     "ruckus_fastiron": RuckusFastironSSH,
+    "sophos_xg": TerminalServerSSH,
     "ubiquiti_edge": UbiquitiEdgeSSH,
     "ubiquiti_edgeswitch": UbiquitiEdgeSSH,
     "vyatta_vyos": VyOSSSH,
