@@ -1,22 +1,8 @@
-.. Netmiko documentation master file, created by
-   sphinx-quickstart on Tue Oct 11 21:21:53 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Netmiko Documentation has Moved!
+================================
 
-Welcome to Netmiko's documentation!
-===================================
+.. contents::
 
-Contents:
+Netmiko documentation has moved to GitHub Pages!
 
-.. toctree::
-   :maxdepth: 2
-
-   classes
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+You can find the README for Netmiko `here <https://github.com/ktbyers/netmiko/blob/develop/README.md>`__, and the API documentation `here <https://ktbyers.github.io/netmiko/docs/netmiko/index.html>`__.
